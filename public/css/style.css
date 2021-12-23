@@ -1,0 +1,14 @@
+.header{
+    margin-left: 20px;
+}
+.header li {
+    list-style-type: none;
+    margin-left: 20px;
+}
+.purple
+{
+    background-color: purple;
+}
+.type li{
+    list-style-type: none;
+}
